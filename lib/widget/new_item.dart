@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:grocery_app/data/categories.dart';
 import 'package:grocery_app/models/category.dart';
-import 'package:grocery_app/models/grocery_item.dart';
 import 'package:http/http.dart' as http;
 
 class NewItem extends StatefulWidget {
